@@ -1,4 +1,4 @@
-[![Stranger-Bot](https://cdn.discordapp.com/avatars/827901726165958676/657b00beeb5a3ea79565f5601e12fce1.webp?size=128 "Stranger-Bot")](http://github.com/ausername-1 "Stranger-Bot")
+[![Stranger Bot](https://raw.githubusercontent.com/ausername-1/Stranger-Bot/main/images/alien-monster_1f47e.png "Stranger Bot")](http://github.com/ausername-1/ "Stranger Bot")
 ~~Stranger~~ **Danger**
 
 ### What is Stranger Bot
