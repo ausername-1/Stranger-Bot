@@ -1,4 +1,5 @@
 [![Stranger Bot](https://raw.githubusercontent.com/ausername-1/Stranger-Bot/main/images/alien-monster_1f47e.png "Stranger Bot")](http://github.com/ausername-1/ "Stranger Bot")
+
 ~~Stranger~~ **Danger**
 
 ### What is Stranger Bot
